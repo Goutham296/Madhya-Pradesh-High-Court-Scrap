@@ -1,4 +1,4 @@
-# eCourts Case Scraper
+# Madhya Pradesh HighCourts Case Scraper
 
 A Flask-based web scraping application designed to retrieve case status and details from the eCourts Services website. It automates the search process, includes automatic CAPTCHA solving, and generates a structured PDF report of the case details directly in memory.
 
